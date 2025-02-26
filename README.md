@@ -4,4 +4,6 @@ Name: Will Andre S. Peligro
 
 Degree Program: BS Computer Science
 
+Challenges: Had a hard time with npm install and exporting and importing files because I am still not yet familiar with it.
+
 
