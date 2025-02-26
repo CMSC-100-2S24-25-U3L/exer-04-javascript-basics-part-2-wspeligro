@@ -8,4 +8,6 @@ Degree Program: BS Computer Science
 
 Challenges: Had a hard time with npm install and exporting and importing files because I am still not yet familiar with it.
 
+Link to the Repository: https://github.com/CMSC-100-2S24-25-U3L/exer-04-javascript-basics-part-2-wspeligro.git
+
 
